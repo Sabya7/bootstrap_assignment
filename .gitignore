@@ -6,7 +6,7 @@ humans.txt
 license.txt
 editconfig
 gitattributes
-
+*.png
 favicon.ico
 site.webmanifest
 .htaccess
