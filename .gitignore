@@ -3,7 +3,6 @@
 # Useful .gitignore templates: https://github.com/github/gitignore
 doc
 humans.txt
-index.html
 license.txt
 editconfig
 gitattributes
@@ -11,3 +10,6 @@ gitattributes
 favicon.ico
 site.webmanifest
 .htaccess
+robots.txt
+404.html
+browserconfig.xml
