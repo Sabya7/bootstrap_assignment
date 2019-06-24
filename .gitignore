@@ -12,4 +12,8 @@ site.webmanifest
 .htaccess
 robots.txt
 404.html
+config.yml
+.gitattributes
+.editorconfig
+LICENSE.txt
 browserconfig.xml
